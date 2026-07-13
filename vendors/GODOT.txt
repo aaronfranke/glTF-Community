@@ -1,3 +1,4 @@
+SPDX-FileCopyrightText: Godot Foundation
 Prefix: GODOT
 Owner: Godot Foundation
 Website: https://godotengine.org/
