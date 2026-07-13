@@ -159,7 +159,7 @@ indicated.
       `YOURPREFIX.txt`
 - [ ] Fill in `Prefix`, `Owner`, and `Contact` fields
 - [ ] Open a PR with only this file
-- [ ] Complete [CLA](./CONTRIBUTING.md#contributor-license-agreement) signing if this is your first PR to this repository
+- [ ] Complete [CLA](../CONTRIBUTING.md#contributor-license-agreement) signing if this is your first PR to this repository
       (you will be automatically prompted if you need to sign the CLA)
 - [ ] Await maintainer approval
 
