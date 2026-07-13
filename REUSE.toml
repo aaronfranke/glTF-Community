@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: Godot Foundation
+# SPDX-License-Identifier: CC-BY-4.0
+
+version = 1
+SPDX-PackageName = "glTF-Community"
+SPDX-PackageSupplier = "The Khronos Group, Inc."
+SPDX-PackageDownloadLocation = "https://github.com/KhronosGroup/glTF-Community"
+
+[[annotations]]
+precedence = "closest"
+path = [
+    "vendors/**",
+]
+SPDX-License-Identifier = "CC-BY-4.0"
