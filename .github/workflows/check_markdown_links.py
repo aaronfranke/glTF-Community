@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# SPDX-FileCopyrightText: The Khronos Group Inc.
+
 """
 Markdown link checker.
 Validates that all internal links in markdown files point to existing files and anchors.
-SPDX license identifier: CC0-1.0
+SPDX-License-Identifier: CC0-1.0
 """
 
 import re

@@ -1,11 +1,13 @@
-# Khronos Community Hosting Contributor License Agreement
+<!--
+SPDX-FileCopyrightText: The Khronos Group Inc.
+SPDX-License-Identifier: CC-BY-4.0
+-->
 
----
+# Khronos Community Hosting Contributor License Agreement
 
 Khronos hosts and provides community access to certain specification documents developed and submitted by parties outside Khronos working groups in designated community repositories. These Submissions, while hosted by Khronos, fall outside of the Khronos Intellectual Property Framework and remain subject to the license terms set by the submitter. This Community Hosting Contributor License Agreement ("Agreement") provides a lightweight licensing framework independent from Khronos Intellectual Property Framework that clarifies Khronos’ rights to host such materials. This license is for the protection of Submitters as well as Khronos; it does not change a Submitter’s rights to use or license the Submissions for any purpose. Each Submitter's agreement to the terms below is required before Khronos will host a Submission in a designated Khronos Community Extension Repository.
 
 **This Agreement does not, under any circumstances, place the Submission within the Khronos Intellectual Property Framework, nor does it render the Submission a Khronos work product or Ratified Specification.**
----
 
 ## 1\. Definitions
 
@@ -18,7 +20,6 @@ Khronos hosts and provides community access to certain specification documents d
 **1.4** "Khronos IP Framework" means the Khronos Intellectual Property Rights Policy that constitutes Attachment A of the Khronos Group Membership Agreement, together with any related Khronos specification IP processes.
 
 **1.5** "Ratified Specification" has the meaning given in the Khronos IP Framework.
----
 
 ## 2\. Hosting License
 
@@ -29,7 +30,6 @@ Khronos hosts and provides community access to certain specification documents d
 **2.3** **Other Licensing Terms**. Submitter may, at its sole discretion, provide Khronos with a separate written statement describing the licensing terms Submitter offers in connection with the Submission, to be included along with the Submission. Any such terms are solely between Submitter and any implementer relying thereupon; Khronos is not a party to such terms and makes no representation regarding them.
 
 **2.4** **No Obligation**. Khronos retains absolute hosting discretion over the contents of its Community Extension Repositories. Khronos may decline to host, may remove, or may require modifications to any Submission at its discretion and nothing in this Agreement obliges Khronos to host or continue hosting any particular Submission.
----
 
 ## 3\. Submitter Representations
 
@@ -44,7 +44,6 @@ Khronos hosts and provides community access to certain specification documents d
 **4.1** **Process Requirements**. Submitter agrees that the Submission must conform to the Submission Khronos requirements provided by Khronos or the relevant working groups, including applicable naming conventions.
 
 **4.2 Required Notices**. Submitter agrees and acknowledges that Khronos will post prominent notices in connection with the Submissions at its discretion, including clarifying that such Submissions fall outside the scope of Khronos intellectual property framework. Submitter agrees not to remove, obscure, or contradict these notices in the Submission or in any related Khronos-hosted material.
----
 
 ## 5\. Takedown Requests
 
