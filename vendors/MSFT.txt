@@ -1,0 +1,4 @@
+SPDX-FileCopyrightText: Microsoft Corporation
+Prefix: MSFT
+Owner: Microsoft Corporation
+Contact: https://www.microsoft.com/
