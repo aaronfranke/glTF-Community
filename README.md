@@ -3,6 +3,8 @@ SPDX-FileCopyrightText: The Khronos Group Inc.
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
+trailing spaces test      	   
+
 # glTF-Community
 
 Welcome! This repository provides the glTF community a place to publish
