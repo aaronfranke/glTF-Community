@@ -3,7 +3,7 @@ SPDX-FileCopyrightText: The Khronos Group Inc.
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
-trailing spaces test      	   
+trailing spaces test
 
 # glTF-Community
 
