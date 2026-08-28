@@ -73,6 +73,9 @@ def check_link(link: str, source_file: Path, root_path: Path, anchor_cache: Dict
     # Handle empty path (link to anchor in same file).
     if not path_part:
         target_file = source_file
+    elif path_part.startswith("/"):
+        # Root-relative link: resolve from the repository root.
+        target_file = (root_path / path_part.lstrip("/")).resolve()
     else:
         # Resolve relative path from source file's directory.
         source_dir = source_file.parent
